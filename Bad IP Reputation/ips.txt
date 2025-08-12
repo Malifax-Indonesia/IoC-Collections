@@ -252,3 +252,4 @@ IP #AbuseIPDB Abuse Score;AbuseIPDB Unique Reports;OTX AlienVault Pulse Count;Ab
 5.188.86.66 #100;74;0;https://www.abuseipdb.com/check/5.188.86.66;https://otx.alienvault.com/indicator/ip/5.188.86.66;Malicious;Block
 5.188.87.49 #100;71;4;https://www.abuseipdb.com/check/5.188.87.49;https://otx.alienvault.com/indicator/ip/5.188.87.49;Malicious;Block
 193.174.89.19 #100;2548;50;https://www.abuseipdb.com/check/193.174.89.19;https://otx.alienvault.com/indicator/ip/193.174.89.19;Malicious;Block
+196.251.116.16 #100;9634;20;https://www.abuseipdb.com/check/196.251.116.16;https://otx.alienvault.com/indicator/ip/196.251.116.16;Malicious;Block
